@@ -1,5 +1,6 @@
 com/store/NumbersPayload.class
 com/store/BluenileRequestHandler.class
+com/store/BluenileRequestHandler$1.class
 com/store/StoreNumbersSubscriber$PubSubMessage.class
 com/store/Payload.class
 com/store/StoreNumbersSubscriber.class

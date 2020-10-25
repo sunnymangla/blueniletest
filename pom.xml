@@ -21,8 +21,23 @@
         <dependency>
             <groupId>com.google.cloud</groupId>
             <artifactId>google-cloud-pubsub</artifactId>
-            <version>1.90.0</version>
+            <version>1.105.1</version>
         </dependency>
+
+        <dependency>
+            <groupId>io.netty</groupId>
+            <artifactId>netty-all</artifactId>
+            <version>4.0.0.CR1</version>
+        </dependency>
+
+        <dependency>
+            <groupId>io.perfmark</groupId>
+            <artifactId>perfmark-api</artifactId>
+            <version>0.21.0</version>
+        </dependency>
+        <!-- Thanks for using https://jar-download.com -->
+
+
 
         <!-- Required for Function primitives -->
         <dependency>
